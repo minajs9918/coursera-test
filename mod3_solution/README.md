@@ -29,7 +29,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span> 
       </button>
-      <a class="navbar-brand" href="#">Tast'o Park</a>
+      <a class="navbar-brand" href="#">Food, LLC</a>
     </div>
 
   <div class="collapse" id="myNavbar">
