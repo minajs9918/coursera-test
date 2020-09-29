@@ -7,9 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>
-Coursera-HTML-CSS-and-Javascript-for-Web-Developers | Coursera-HTML-CSS-and-JavaScript-for-Web-Developers
-</title>
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Coursera-Assignment-fullstack-course" />
 <meta property="og:locale" content="en_US" />
@@ -41,7 +38,7 @@ Coursera-HTML-CSS-and-Javascript-for-Web-Developers | Coursera-HTML-CSS-and-Java
   <li>mod5_solution(work in progress)</li>
 </ul>
 
-<h1 id="outputs-"> Directories:</h1>
+<h1 id="outputs-"> Directories   :</h1>
 
 <ul>
   <li><a href="https://github.com/minajs9918/coursera-test/tree/gh-pages/mod2_solution" target="_blank">Module-2</a></li>
