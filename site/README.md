@@ -7,7 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.5.0 -->
-<title>Coursera-HTML-CSS-and-Javascript-for-Web-Developers | Coursera-HTML-CSS-and-JavaScript-for-Web-Developers</title>
+<title>
+Coursera-HTML-CSS-and-Javascript-for-Web-Developers | Coursera-HTML-CSS-and-JavaScript-for-Web-Developers
+</title>
 <meta name="generator" content="Jekyll v3.8.5" />
 <meta property="og:title" content="Coursera-Assignment-fullstack-course" />
 <meta property="og:locale" content="en_US" />
@@ -16,8 +18,6 @@
 <link rel="canonical" href="https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/" />
 <meta property="og:url" content="https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/" />
 <meta property="og:site_name" content="Coursera-HTML-CSS-and-JavaScript-for-Web-Developers" />
-<script type="application/ld+json">
-{"@type":"WebSite","headline":"Coursera-HTML-CSS-and-Javascript-for-Web-Developers","url":"https://siddartha19.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/","name":"Coursera-HTML-CSS-and-JavaScript-for-Web-Developers","description":"This repository holds the assignments of the Course : HTML, CSS, and Javascript for Web Developers by Johns Hopkins University","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   <link rel="stylesheet" href="style.css">
