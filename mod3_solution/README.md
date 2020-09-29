@@ -23,7 +23,7 @@
 <nav class="navbar" id="top">
   <div class="container-fluid">
 
-    <div class="navbar-header">
+  <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -32,7 +32,7 @@
       <a class="navbar-brand" href="#">Tast'o Park</a>
     </div>
 
-    <div class="collapse" id="myNavbar">
+  <div class="collapse" id="myNavbar">
       <ul class="nav navbar-nav visible-xs">
         <li><a class="menu-item" href="#">Chicken</a></li>
         <li><a class="menu-item" href="#">Beef</a></li> 
