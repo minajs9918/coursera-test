@@ -26,7 +26,7 @@
 
 <p>This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.</p>
 
-<p><img src="gh-pages.png" alt="Picture of gh-pages" /></p>
+<p><img src="gh-pages.png" width="600px" height="600px" alt="Picture of gh-pages" /></p>
 
 <h1 id="assignments-">Assignments :</h1>
 
