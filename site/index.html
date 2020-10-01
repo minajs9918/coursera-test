@@ -21,6 +21,56 @@
 <!-- End Jekyll SEO tag -->
 
     <link rel="stylesheet" href="style.css">
+  <style>
+
+/********** Base styles **********/
+h1 {
+  margin-bottom: 15px;
+}
+
+p {
+  border: 1px solid black;
+  margin-bottom: 15px;
+  text-align: center;
+}
+#p1 {
+  background-color: #A52A2A;
+  width: 300px;
+  height: 300px;
+}
+#p2 {
+  background-color: #DEB887;
+  width: 50px;
+  height: 50px;
+}
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+  #p1 {
+    width: 80%;
+  }
+  #p2 {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+  #p1 {
+    width: 50%;
+  }
+  #p2 {
+    width: 100px;
+    height: 100px;
+  }
+  body {
+    background-color: gray;
+  }
+}
+
+</style>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
@@ -32,9 +82,11 @@
 
 <p>This repository contains all of the source code used in the course called HTML, CSS and Javascript for Web Developers in Coursera.</p>
 
-<p><img src="gh-pages.png" width="600px" height="600px" alt="Picture of gh-pages" /></p>
+<p><img id="p1" src="gh-pages.png" alt="Picture of gh-pages" /></p>
 
 <h1 id="assignments-">Assignments :</h1>
+
+
 
 <ul>
   <li>mod1_solution</li>
